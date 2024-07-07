@@ -4,8 +4,12 @@
 # - E não podemos usar palavras reservadas do Python, como if, for, from, etc. 
 
 # Declare variáveis do tipo string
+nome = 'fulano'
 
 # Declare variáveis de cada tipo numérico
-
+numero_inteiro = 1
+numero_float = 1.5
 
 # Declare uma variável do tipo booleano
+verdadeiro = True
+falso = False
